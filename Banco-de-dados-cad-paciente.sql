@@ -22,5 +22,7 @@ rua varchar(50),
 contatoAlternativo varchar(200),
 telefoneContatoAlternativo varchar(13),
 emailPaciente varchar(200),
-oberservacaoPaciente varchar(2000)
+oberservacaoPaciente varchar(2000),
+situacao varchar(20),
+numero int
 );
