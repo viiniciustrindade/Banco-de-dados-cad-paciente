@@ -23,6 +23,6 @@ contatoAlternativo varchar(200),
 telefoneContatoAlternativo varchar(13),
 emailPaciente varchar(200),
 oberservacaoPaciente varchar(2000),
-situacao varchar(20),
+situacao varchar(50),
 numero int
 );
